@@ -23,3 +23,9 @@ Want to focus on Projects in Telecommunication sector of EEE as a major of the f
 
 - **Autonomous systems:** AI drives drones, self-driving cars, and smart manufacturing.
 
+**⚡ Power Systems**
+- **Load forecasting:** ML models predict electricity demand more accurately than traditional methods.
+
+- **Fault detection & diagnosis:** AI can identify anomalies in grid operation and prevent blackouts.
+
+- **Smart grids:** Reinforcement learning optimizes energy distribution and storage.
